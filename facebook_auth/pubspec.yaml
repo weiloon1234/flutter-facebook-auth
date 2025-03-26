@@ -39,7 +39,7 @@ flutter:
         pluginClass: FlutterFacebookAuthPlugin
       web:
         default_package: flutter_facebook_auth_web
-      macos:
-        default_package: facebook_auth_desktop
+      # macos:
+      #   default_package: facebook_auth_desktop
 
 
